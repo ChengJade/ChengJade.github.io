@@ -6,9 +6,8 @@ excerpt: 'We proposed a uniform solution to the PSPACE-complete problem QSAT by 
 date: 2020-04-08
 venue: 'Computer Science'
 paperurl: 'http://ChengJade.github.io/files/Computer_Science.pdf'
-# citation: 'Yu Cheng, Yongshun Gong, Yuansheng Liu, Bosheng Song, Quan Zou, Molecular design in drug discovery: a comprehensive review of deep generative models, Briefings in Bioinformatics, Volume 22, Issue 6, November 2021, bbab344, https://doi.org/10.1093/bib/bbab344.'
+# citation: 'Yu Cheng, Yongshun Gong, Yuansheng Liu, Bosheng Song, Quan Zou, Molecular design in drug discovery: a comprehensive review of deep generative models, <i>Briefings in Bioinformatics<i>, Volume 22, Issue 6, November 2021, bbab344, https://doi.org/10.1093/bib/bbab344.'
 ---
-
 [Download paper here](http://ChengJade.github.io/files/Computer_Science.pdf)
 
 

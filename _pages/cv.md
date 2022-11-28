@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF version of my CV from [here](http://ChengJade.github.io/files/CV.pdf).
+
 Education
 ======
 * M.S. in Computer Science, Hunan University (current, 2020-2023)
@@ -25,7 +27,7 @@ Skills
 ======
 * Code: Python (Pytorch, Tensorflow), C++, Java
 * Draw: Adobe Illustrator, Photoshop, Procreate
-* English: IELTS Band 6.5
+* Language: English, Mandarin
 
 Publications
 ======
