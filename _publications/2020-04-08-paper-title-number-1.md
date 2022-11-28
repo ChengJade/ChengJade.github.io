@@ -9,7 +9,7 @@ paperurl: 'http://ChengJade.github.io/files/Computer_Science.pdf'
 # citation: 'Yu Cheng, Yongshun Gong, Yuansheng Liu, Bosheng Song, Quan Zou, Molecular design in drug discovery: a comprehensive review of deep generative models, Briefings in Bioinformatics, Volume 22, Issue 6, November 2021, bbab344, https://doi.org/10.1093/bib/bbab344.'
 ---
 
-[Download paper here](http://ChengJade.github.io/files/bbab344.pdf)
+[Download paper here](http://ChengJade.github.io/files/Computer_Science.pdf)
 
 
 Abstract
