@@ -12,8 +12,7 @@ paperurl: 'http://ChengJade.github.io/files/bbab344.pdf'
 [Download paper here](http://YuCheng.github.io/files/bbab344.pdf)
 
 
-Abstract
----
+## Abstract
 
 Deep generative models have been an upsurge in the deep learning community since they were proposed. These models are designed for generating new synthetic data including images, videos and texts by fitting the data approximate distributions. In the last few years, deep generative models have shown superior performance in drug discovery especially de novo molecular design. In this study, deep generative models are reviewed to witness the recent advances of de novo molecular design for drug discovery. In addition, we divide those models into two categories bassed on molecular representations in silico. Then these two classical types of models are reported in detail and discussed about both pros and cons. We also indicate the current challenges in deep generative models for de novo molecular design. De novo molecular design automatically is promising but a long road to be explored.
 
