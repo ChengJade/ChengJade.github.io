@@ -5,7 +5,7 @@ permalink: /publication/2021-08-20-paper-title-number-2
 excerpt: 'We summerized the recent advances of de novo molecular design for drug discovery based on various deep generative models and indicated the current challenges in deep generative models for de novo molecular design.'
 date: 2021-08-20
 venue: 'Briefings in Bioinformatics'
-paperurl: 'http://YuCheng.github.io/files/bbab344.pdf'
+paperurl: 'http://ChengJade.github.io/files/bbab344.pdf'
 # citation: 'Yu Cheng, Yongshun Gong, Yuansheng Liu, Bosheng Song, Quan Zou, Molecular design in drug discovery: a comprehensive review of deep generative models, Briefings in Bioinformatics, Volume 22, Issue 6, November 2021, bbab344, https://doi.org/10.1093/bib/bbab344.'
 ---
 
