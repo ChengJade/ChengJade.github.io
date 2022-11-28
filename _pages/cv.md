@@ -24,11 +24,8 @@ Work experience
 Skills
 ======
 * Code: Python (Pytorch, Tensorflow), C++, Java
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Draw: Adobe Illustrator, Photoshop, Procreate
+* English: IELTS Band 6.5
 
 Publications
 ======
